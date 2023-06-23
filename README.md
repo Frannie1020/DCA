@@ -1,6 +1,7 @@
 # Undergraduate-thesis-projects-New-class-detection-algorithm-on-data-
 
 💡Abstract:
+
 In recent years, many novel class detection algorithms on data streams have been proposed. 
 At present, these algorithms are mainly based on clustering learning and model learning. 
 There are three methods based on clustering learning: clustering training data with a single learning model; 
@@ -18,6 +19,7 @@ It is verified that this algorithm is superior to other existing algorithms in p
 
 
 💡Functions:
+
 ▼ Developed a novel class detection algorithm called Dynamic Clustering Algorithm (DCA).
 
 ▼ Some tests are performed using real and synthetic datasets for training and validation.
